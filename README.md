@@ -9,5 +9,3 @@ You can find a current version of the [preregistration](./docs/reproducibility-s
 This work forms part of my PhD research, which will involve developing and refining methods to study the transmission processes underlying the distribution of cultural traits in and among populations. 
 
 Riana Minocher
-
-Bret Beheim, Silke Atmaca, Corina Logan, Richard McElreath

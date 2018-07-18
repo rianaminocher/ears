@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ears: evolutionary anthropology reproducibility study</title>
+    <link>/</link>
+    <description>Recent content on ears: evolutionary anthropology reproducibility study</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ears: overview</title>
+      <link>/2018/07/17/ears-first-post/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/07/17/ears-first-post/</guid>
+      <description>Evolutionary Anthropology Reproducibility Study
+Our project aims to assess and improve the scientific reproducibility of research within the field of evolutionary anthropology.
+Reproducible research practices include sharing raw and processed data, analytical code and documenting software and workflows to enable the reproduction of original research results. This is different from replication, which involves establishing findings with new data (e.g. different species, sample, environment). Reproducibility is a criterion for responsible scientific output, but importantly, allows for increased engagement with research, offers opportunities for collaboration and improves productivity.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>This is a website describing our project on scientific reproducibility in the field of evolutionary anthropology. You can read more about the project and our first study here. You can follow us on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>/members/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>/members/</guid>
+      <description>Riana Minocher
+riana_minocher@eva.mpg.de
+I am a PhD student in the Department for Human Behaviour, Ecology and Culture at the Max-Planck Institute for Evolutionary Anthropology. I am interested in understanding the processes that generate, maintain and affect the patterns of cultural diversity we can observe. During my PhD, I plan to develop theory about the transmission of multiple cultural traits under different social and ecological contexts. I will link this theory to data I collect in the field, and develop (reproducible) research methods to do so.</description>
+    </item>
+    
+  </channel>
+</rss>
