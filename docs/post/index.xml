@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ears: evolutionary anthropology reproducibility study</title>
-    <link>/post/</link>
+    <link>https://rianaminocher.github.io/ears/post/</link>
     <description>Recent content in Posts on ears: evolutionary anthropology reproducibility study</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rianaminocher.github.io/ears/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ears: overview</title>
-      <link>/2018/07/17/ears-first-post/</link>
+      <link>https://rianaminocher.github.io/ears/2018/07/17/ears-first-post/</link>
       <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/07/17/ears-first-post/</guid>
+      <guid>https://rianaminocher.github.io/ears/2018/07/17/ears-first-post/</guid>
       <description>Evolutionary Anthropology Reproducibility Study
 Our project aims to assess and improve the scientific reproducibility of research within the field of evolutionary anthropology.
 Reproducible research practices include sharing raw and processed data, analytical code and documenting software and workflows to enable the reproduction of original research results. This is different from replication, which involves establishing findings with new data (e.g. different species, sample, environment). Reproducibility is a criterion for responsible scientific output, but importantly, allows for increased engagement with research, offers opportunities for collaboration and improves productivity.</description>
